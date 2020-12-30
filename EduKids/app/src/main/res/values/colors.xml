@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#1D022E</color>
+
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrapeFruit">#ED5565</color>
+    <color name="colorGrapeFruitDark">#FBC41B18</color>
+    <color name="colorBitterSweet">#FC6E51</color>
+    <color name="colorBitterSweetDark">#E9573F</color>
+    <color name="colorFlower">#E3C989</color>
+    <color name="colorFlowerDark">#EBF21C</color>
+    <color name="colorGrass">#A0D468</color>
+    <color name="colorGrassDark">#7EC630</color>
+    <color name="colorBlueJeans">#509CEC</color>
+    <color name="colorBlueJeansDark">#4A89DC</color>
+    <color name="colorLavander">#AC92EC</color>
+    <color name="colorLavanderDark">#967ADC</color>
+    <color name="colorMint">#48CFAD</color>
+    <color name="colorMintDark">#37BC9B</color>
+    <color name="colorAqua">#4BCDFA</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="colorPinkRose">#EC87C0</color>
+    <color name="colorPinkRoseDark">#D770AD</color>
+
+    <color name="colorTransparent">#43000000</color>
+    <color name="redTransparent">#7FFD0101</color>
+
+
+
+
+
+
+
+
+
+    <color name="black">#000000</color>
+
+
+
+
+    <!-- Board Colors -->
+    <color name="red">#F21D24</color>
+    <color name="blue">#708CFD</color>
+    <color name="green">#46CA46</color>
+    <color name="yellow">#DBAC0D</color>
+    <color name="orange">#EE896A</color>
+    <color name="purple">#A13CB1</color>
+    <color name="cyan">#38FFFF</color>
+    <color name="pink">#f2739d</color>
+
+    <!-- Old Board Colors -->
+    <color name="hamberMaroon">#813237</color>
+    <color name="hamberBlue">#8296FF</color>
+    <color name="pwGold">#C6A910</color>
+    <color name="pwBlack">#000000</color>
+    <color name="madronaBlue">#1B13C8</color>
+    <color name="madronaGreen">#008834</color>
+    <color name="old_orange">#A7E830</color>
+    <color name="magenta">#FF00FF</color>
+
+    <array name="boardColorScheme">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/purple</item>
+        <item>@color/cyan</item>
+        <item>@color/pink</item>
+    </array>
+
+    <array name="oldBoardColorScheme">
+        <item>@color/hamberMaroon</item>
+        <item>@color/hamberBlue</item>
+        <item>@color/pwGold</item>
+        <item>@color/pwBlack</item>
+        <item>@color/madronaBlue</item>
+        <item>@color/madronaGreen</item>
+        <item>@color/old_orange</item>
+        <item>@color/magenta</item>
+    </array>
+
+
+    <color name="red1">#f44336</color>
+    <color name="pink1">#e91e63</color>
+    <color name="purple1">#9c27b0</color>
+    <color name="indigo1">#3f51b5</color>
+    <color name="blue1">#2196F3</color>
+    <color name="lightblue1">#03a9f4</color>
+    <color name="cyan1">#00bcd4</color>
+    <color name="teal1">#009688</color>
+    <color name="green1">#4caf50</color>
+    <color name="lime1">#cddc39</color>
+    <color name="yellow1">#ffeb3b</color>
+    <color name="amber">#ffc107</color>
+    <color name="orange1">#ff9800</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#9e9e9e</color>
+    <color name="black1">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>

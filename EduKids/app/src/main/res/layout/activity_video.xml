@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_pattern"
+    tools:context=".Video">
+
+
+    <Button
+        android:id="@+id/grdon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="176dp"
+        android:layout_marginEnd="36dp"
+        android:background="@drawable/back1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtube_player_view1"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+
+        android:layout_marginBottom="3dp"
+        app:autoPlay="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:showFullScreenButton="true"
+        app:videoId="FVYYCWLq0pM" />
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/youtube_player_view"
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="12dp"
+        app:autoPlay="false"
+        app:layout_constraintBottom_toTopOf="@+id/youtube_player_view1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:showFullScreenButton="true"
+        app:videoId="K0yyw8Fk1Uk" />
+
+    <ImageView
+        android:id="@+id/imageViewVideo"
+        android:layout_width="120dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="4dp"
+        app:layout_constraintEnd_toStartOf="@+id/imageView8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/avatar1" />
+
+    <Button
+        android:id="@+id/kalp1"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/kalp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewVideo" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="92dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="179dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageViewVideo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/saat" />
+
+    <TextView
+        android:id="@+id/gerisayim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="100dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/kalp3"
+        android:layout_width="60dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/kalp"
+        app:layout_constraintStart_toEndOf="@+id/kalp1"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewVideo" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

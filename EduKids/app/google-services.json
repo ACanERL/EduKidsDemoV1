@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "748039040374",
+    "firebase_url": "https://acan-f5076.firebaseio.com",
+    "project_id": "acan-f5076",
+    "storage_bucket": "acan-f5076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:afedb88466e272c9",
+        "android_client_info": {
+          "package_name": "com.example.acan.acann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-1m23u0li419h3o632klh0bjdu53c6qa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acan.acann",
+            "certificate_hash": "88e0b7e912bb5fd0e35d253330edb9b59bc3dcd9"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:07c9f57a6ee10cfcaf5e57",
+        "android_client_info": {
+          "package_name": "com.example.alpha.kidslearningworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-a3ls6sj1jfijr7k1c0egfednveidoj6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpha.kidslearningworld",
+            "certificate_hash": "5e3f8e32de26ae710c79523a481b96cd216307d3"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:3b58974dfcec3257af5e57",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-gerv9beka1o8aa1e4mq1jv320ejnbtei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bitirmeproje",
+            "certificate_hash": "5e3f8e32de26ae710c79523a481b96cd216307d3"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:18f1672dca735286af5e57",
+        "android_client_info": {
+          "package_name": "com.example.edukidsbitirmeprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-5hvli627pumr4rckj6lnieopnqm6j45j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edukidsbitirmeprojesi",
+            "certificate_hash": "5e3f8e32de26ae710c79523a481b96cd216307d3"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:21ca999bd9aa6a96af5e57",
+        "android_client_info": {
+          "package_name": "com.example.firebaseresimekme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-p0tf2a5aom74t3p7ottstfeplhag5f4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseresimekme",
+            "certificate_hash": "5e3f8e32de26ae710c79523a481b96cd216307d3"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748039040374:android:e2829f8c9fa8b49eaf5e57",
+        "android_client_info": {
+          "package_name": "com.example.verigondermetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748039040374-fmmbm06lqe7chticdd6lvhs9s4o1h0j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verigondermetest",
+            "certificate_hash": "5e3f8e32de26ae710c79523a481b96cd216307d3"
+          }
+        },
+        {
+          "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMGds8-J0B0m7btlJrYhvqWXWdEcbgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748039040374-mbf6rctrbifruh6mcbdt92r1hl3v5n28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.edukidsbitirmeprojesi">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Avatarustu"></activity>
+        <activity android:name=".AvatarSac.avatarsac" />
+        <activity android:name=".FR.Frnumbers" />
+        <activity android:name=".FrAlpha.FrAlpha" />
+        <activity android:name=".GolgeOyunu.Golge1" />
+        <activity android:name=".SebzeOyunuSonuc" />
+        <activity android:name=".SebzlerOyunEkrani" />
+        <activity android:name=".SebzelerOyun" />
+        <activity android:name=".avatarsac" />
+        <activity
+            android:name=".YeniBolumler.ComingSoon"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HecelemeBolumu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Labirent.LabirentOyunu"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.Cevap3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.Main3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.Cevap2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.Cevap1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sorular.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ObjectVideo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Video"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Objects"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bolum3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Vehicles"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Shapes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fruit"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Colors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Animals"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Numbers"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Alphabets"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Veg"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PuzzleAnimals"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".quiznumbergiris"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Wheel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bolum2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Avatarlar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sarki_2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sarkilar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sarki_1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".NumberQuiz"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".alphaquizgiris"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Score"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AlphaQuiz"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Drawing"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bolum1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Splash"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
